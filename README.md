@@ -56,6 +56,3 @@ Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen finden Sie in d
 ## Kontakt
 
 Bei Fragen oder Anmerkungen können Sie uns über GitHub kontaktieren oder eine E-Mail an info@kilianhauber.com senden.
-```
-
-Dieser Text ist komplett in Markdown-Formatierung und kann direkt in eine `README.md`-Datei eingefügt werden.
