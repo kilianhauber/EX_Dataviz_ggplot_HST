@@ -1,0 +1,28 @@
+---
+title: "EX_Dataviz_ggplot_Presentation_HST"
+author: "kilianhauber"
+format: revealjs
+editor: visual
+---
+
+## Gruppe HST
+
+-   Kilian Hauber
+
+-   Danis Sisic
+
+-   Tim Trefzer
+
+## Aufgabe 2 d)
+
+1.  Da in einer Zeile von Spalte q3 der Wert "NA" steht, wird die gesamte Spalte Q3 als Text (Strings) interpretiert. Dadurch werden auch die Zahlen in den anderen Zeilen zu einfachem Text umgewandelt, was bedeutet, dass mathematische Berechnungen mit den Werten in dieser Form nicht mehr möglich sind. Die Spalten q1, q2 und q3 hingegen bestehen ausschlieslich aus Zahlen und werden daher auch passend angezeigt.
+
+2.  Die Spalten "gender "und "workshop" könnte man auch als Faktoren (factor) speichern. Faktoren sind speichereffizienter als Zeichenfolgen (Strings), da sie jeden einzigartigen Wert nur einmal speichern und dann auf diesen verweisen, anstatt die Zeichenfolgenwerte mehrfach zu speichern.
+
+## Aufgabe 8
+
+**Antwort:** Wir haben uns dazu entschieden, dass die fehlenden Werte (NA) nicht dargestellt werden sollten, da diese bei den absoluten Häufigkeiten keine Auswirkungen auf die Wert der Workshops haben. Bei den relativen Häufigkeiten wäre das anders, aber es hat keinen Einfluss und kann der Einfachheit halber weggelassen werden.
+
+## Aufgabe 10
+
+**Antwort:** Ein Balkendiagramm ist für die Darstellung von "posttest" ungeeignet, da "posttest" eine kontinuierliche numerische Variable ist. Balkendiagramme sind besser für kategoriale Daten geeignet. Histogramme und Dichtekurven sind besser, weil sie die Verteilung und Häufigkeit kontinuierlicher Daten über einen Wertebereich darstellen können.
